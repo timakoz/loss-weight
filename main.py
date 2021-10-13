@@ -11,8 +11,8 @@ import random
 p = 0
 lessed = 0
 needlesskkal = 5 * 7000
-c = 0
-while c < 10:
+c = 1
+while c < 11:
     if p == 3:
         z = 2000
     else:
