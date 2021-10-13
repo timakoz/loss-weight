@@ -13,8 +13,8 @@ lessed = 0
 needlesskkal = 5 * 7000
 c = 1
 while c < 11:
-    if p == 3:
-        z = 2000
+    if p == 2:
+        z = 1800
     else:
         z = 2200
     daykkal = random.randint(1000,z)
