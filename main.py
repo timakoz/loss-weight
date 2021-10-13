@@ -26,7 +26,7 @@ while c < 11:
 
 lessed /= 7000
 
-print ('Так держать вы сбросили (кг): ', round(lessed,2), 'Осталось еще: ', round(5 - lessed, 2))
+print ('Так держать вы сбросили:', round(lessed,2), 'кг', 'Осталось еще:', round(5 - lessed, 2), 'кг')
 
 
 
