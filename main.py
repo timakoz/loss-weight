@@ -1,6 +1,6 @@
 #################
 #
-# TODO: 
+# TODO: add global var. to day and all weight also global while
 #
 #################
 import math
